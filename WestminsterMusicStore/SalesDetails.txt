@@ -1,0 +1,16 @@
+Sales on 2019/08/05 05:34:48
+ID = 65
+Item type = Vinyl
+Title = ja
+Price per copy = $5.0
+No of copies = 852
+Total price = $4260.0 
+
+Sales on 2019/08/05 05:35:53
+ID = 98
+Item type = Vinyl
+Title = 45
+Price per copy = $454.0
+No of copies = 1000
+Total price = $454000.0 
+
